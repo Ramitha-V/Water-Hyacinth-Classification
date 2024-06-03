@@ -9,6 +9,8 @@ Diversity: Images taken by different mobile phones with varying camera resolutio
 ## Model Development:
 Convolutional Neural Network (CNN): Utilized to classify aquatic plants as invasive or non-invasive. Invasive plants are classified into Water Lettuce, Heartleaf False Pickerelweed, Common Water Hyacinth, and Common Duckweeds.
 
+<img width="466" alt="Screenshot 2024-06-03 110809" src="https://github.com/Ramitha-V/Water-Hyacinth-Classification/assets/162662008/a863f22c-a06e-4b09-a0c7-9eb95ac249ac">
+
 
 ## Website Development:
 - Identification Tool: A user-friendly tool for identifying water hyacinth from other weeds through image uploads.
